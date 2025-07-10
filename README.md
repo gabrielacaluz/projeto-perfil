@@ -35,6 +35,13 @@ A página apresenta um pouco sobre mim, Gabriela Caluz – estudante de Ciência
 - Organização visual clara e objetiva
 
 ---
+## 🚀 Como acessar
+
+O projeto pode ser visualizado através do GitHub Pages:
+
+🔗 [https://gabrielacaluz.github.io/**projeto-Gabriela-Caluz**](https://gabrielacaluz.github.io/projeto-perfil/)
+
+---
 
 ## 📫 Contato
 
